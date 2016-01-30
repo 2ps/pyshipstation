@@ -3,3 +3,10 @@
 dist
 shipstation.egg-info
 .tox
+.Python
+bin/
+lib/
+include/
+.idea/
+share/
+test_settings.py
